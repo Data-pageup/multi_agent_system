@@ -1,1 +1,1 @@
-# This is multi agent built with langchain.
+# An multi agent which writes research paper built with langchain.
