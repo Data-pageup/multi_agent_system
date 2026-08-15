@@ -1,0 +1,21 @@
+# core llm + Langchain ecosystem
+langchain
+langchain-core
+langchain-community
+langchain-groq
+streamlit
+
+
+# tavily search
+tavily-python
+
+##web scrapping
+beautifulsoup4
+
+readability-lxml
+trafilatura
+requests
+lxml
+
+# env variables
+python-dotenv
