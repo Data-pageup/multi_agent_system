@@ -1,6 +1,4 @@
-def main():
-    print("Hello from multi-agent-system!")
+from src.tools.tools import websearch
 
 
-if __name__ == "__main__":
-    main()
+output = websearch("how long will it take to get tom halland like body structure")
