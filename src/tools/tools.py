@@ -33,7 +33,8 @@ def websearch(query):
         )
     return "\n----\n".join(out)
 
-@tool
+
+
 @tool
 def scrape_url(url: str) -> str:
     """

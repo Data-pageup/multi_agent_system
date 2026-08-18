@@ -1,0 +1,1 @@
+# currently not developing into a app cost of the api cost and other 
