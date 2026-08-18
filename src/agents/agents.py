@@ -5,7 +5,7 @@ from langchain_core.output_parsers import StrOutputParser
 
 from dotenv import load_dotenv
 
-from tools import websearch , scrape_url 
+from src.tools.tools import websearch , scrape_url 
 
 
 load_dotenv()

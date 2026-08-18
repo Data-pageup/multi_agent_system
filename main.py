@@ -1,4 +1,4 @@
-from src.tools.tools import websearch
+from src.pipeline.pipeline import run_research_pipeline
 
 
-output = websearch("how long will it take to get tom halland like body structure")
+run_research_pipeline("What can i research about mcp ?")
